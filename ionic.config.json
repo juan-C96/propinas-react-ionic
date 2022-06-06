@@ -1,0 +1,8 @@
+{
+  "name": "Propinas-React-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "612fcc5a"
+}

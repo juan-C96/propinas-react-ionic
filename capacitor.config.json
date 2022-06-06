@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Propinas-React-Ionic",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
