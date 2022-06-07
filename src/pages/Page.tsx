@@ -14,7 +14,7 @@ const Page: React.FC = () => {
           <IonButtons slot="start">
             <IonMenuButton />
           </IonButtons>
-          <IonTitle>{name}</IonTitle>
+          <IonTitle className='ion-text-center'>Aplicación de gestión de pago de cuenta.</IonTitle>
         </IonToolbar>
       </IonHeader>
 
