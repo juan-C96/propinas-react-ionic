@@ -1,6 +1,5 @@
 import { IonButtons, IonContent, IonHeader, IonMenuButton, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import { useParams } from 'react-router';
-import ExploreContainer from '../components/ExploreContainer';
 import Calcular from '../components/Calcular';
 import './Page.css';
 
