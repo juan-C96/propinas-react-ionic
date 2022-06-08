@@ -4,7 +4,6 @@ import APagar from './APagar.js'
 import './ExploreContainer.css';
 import { IonList, IonListHeader, IonInput, IonLabel } from '@ionic/react';
 import { IonGrid, IonRow, IonCol } from '@ionic/react';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
 
