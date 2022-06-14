@@ -40,6 +40,8 @@ class App extends Component {
                                             <Button color='blue' fluid size='large' onClick={this.Operar}>
                                                 A pagar por comensales
                                             </Button>
+                                            <br></br>
+                                            <br></br>
                                         </Form.Field>
                                         <Form.Field>
                                             <IonLabel><Form.Input id='result' fluid value='' placeholder='Resultado' />€</IonLabel>
